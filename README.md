@@ -2,35 +2,55 @@
 
 Base de travail pour construire un **programme d'éducation officiel du Québec**, en commençant par la **maternelle 5 ans**.
 
-## Contenu ajouté
+## Contenu
 
-- `src/programme_maternelle.py` : script Python qui génère la structure annuelle complète.
-- `data/maternelle_annee_complete.json` : sortie prête à être exploitée (11 mois, 44 semaines, activités planifiées).
+- `src/programme_maternelle.py` :
+  - génère un programme annuel complet (11 mois, 44 semaines),
+  - exporte un JSON prêt à utiliser,
+  - propose une interface Tkinter interactive pour consultation pédagogique.
+- `data/maternelle_annee_complete.json` : sortie de référence.
 
-## Ce que contient la base (maternelle)
+## Couverture pédagogique (maternelle)
 
-Le programme annuel généré inclut :
+Le programme inclut :
 
-- Les compétences globales ciblées (physique/moteur, affectif, social, langagier, cognitif).
-- Une planification mensuelle (août à juin).
-- 4 semaines par mois.
+- Les 5 compétences globales (physique/moteur, affectif, social, langagier, cognitif).
+- 11 mois (août à juin), 4 semaines par mois.
 - Pour chaque semaine :
   - objectifs pédagogiques,
-  - activités (langage, motricité, découverte),
-  - matériel,
-  - modalité d'évaluation formative.
+  - routine quotidienne structurée,
+  - 5 ateliers complets (langage, motricité, émotions, découverte, création),
+  - matériel, durée, interactions enfant,
+  - modalités d'évaluation formative,
+  - proposition de collaboration famille-école.
 
-## Générer / régénérer le programme
+## Générer le programme
 
 ```bash
 python3 src/programme_maternelle.py
 ```
 
-Fichier produit : `data/maternelle_annee_complete.json`.
+## Lancer l'interface Tkinter (avec animations)
 
-## Prochaines étapes suggérées
+```bash
+python3 src/programme_maternelle.py --ui
+```
 
-1. Aligner les objectifs sur les formulations exactes du **Programme-cycle de l'éducation préscolaire du Québec**.
-2. Ajouter des compétences/attentes mesurables par étape (périodes de l'année).
-3. Ajouter une différenciation (soutien, enrichissement, adaptation).
-4. Générer des fiches hebdomadaires imprimables à partir du JSON.
+Fonctionnalités de l'interface :
+
+- Navigation par mois et semaines.
+- Affichage détaillé : objectifs, activités, évaluation.
+- Bandeau animé attractif (soleil, nuages, mascotte) adapté aux jeunes enfants.
+- Mini-jeu interactif de numératie avec rétroaction immédiate.
+
+## Personnalisation rapide
+
+- Changer l'année scolaire : `--annee 2027-2028`
+- Changer le chemin de sortie JSON : `--sortie data/autre_fichier.json`
+
+## Prochaines améliorations possibles
+
+1. Ajouter des profils d'adaptation (EHDAA, enrichissement, soutien ciblé).
+2. Ajouter des fiches imprimables hebdomadaires automatiquement.
+3. Ajouter des mini-jeux supplémentaires (lettres, sons, séquences).
+4. Connecter une banque d'images/sons éducatifs sous licence libre.
