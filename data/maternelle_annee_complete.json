@@ -1,0 +1,2103 @@
+{
+  "niveau": "Maternelle 5 ans",
+  "annee_scolaire": "2026-2027",
+  "competences": [
+    "Développement physique et moteur",
+    "Développement affectif",
+    "Développement social",
+    "Développement langagier",
+    "Développement cognitif"
+  ],
+  "mois": [
+    {
+      "nom": "Août",
+      "periode": "Août 2026-2027",
+      "semaines": [
+        {
+          "numero": 1,
+          "theme": "Rentrée et adaptation - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Rentrée et adaptation - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Rentrée et adaptation - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Rentrée et adaptation - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "theme": "Rentrée et adaptation - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Rentrée et adaptation - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Rentrée et adaptation - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Rentrée et adaptation - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "theme": "Rentrée et adaptation - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Rentrée et adaptation - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Rentrée et adaptation - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Rentrée et adaptation - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "theme": "Rentrée et adaptation - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Rentrée et adaptation - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Rentrée et adaptation - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Rentrée et adaptation - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Septembre",
+      "periode": "Septembre 2026-2027",
+      "semaines": [
+        {
+          "numero": 5,
+          "theme": "Moi et mon école - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Moi et mon école - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Moi et mon école - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Moi et mon école - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "theme": "Moi et mon école - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Moi et mon école - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Moi et mon école - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Moi et mon école - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "theme": "Moi et mon école - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Moi et mon école - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Moi et mon école - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Moi et mon école - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "theme": "Moi et mon école - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Moi et mon école - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Moi et mon école - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Moi et mon école - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Octobre",
+      "periode": "Octobre 2026-2027",
+      "semaines": [
+        {
+          "numero": 9,
+          "theme": "Automne et récoltes - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Automne et récoltes - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Automne et récoltes - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Automne et récoltes - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "theme": "Automne et récoltes - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Automne et récoltes - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Automne et récoltes - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Automne et récoltes - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "theme": "Automne et récoltes - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Automne et récoltes - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Automne et récoltes - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Automne et récoltes - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "theme": "Automne et récoltes - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Automne et récoltes - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Automne et récoltes - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Automne et récoltes - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Novembre",
+      "periode": "Novembre 2026-2027",
+      "semaines": [
+        {
+          "numero": 13,
+          "theme": "Famille et communauté - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Famille et communauté - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Famille et communauté - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Famille et communauté - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "theme": "Famille et communauté - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Famille et communauté - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Famille et communauté - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Famille et communauté - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "theme": "Famille et communauté - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Famille et communauté - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Famille et communauté - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Famille et communauté - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "theme": "Famille et communauté - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Famille et communauté - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Famille et communauté - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Famille et communauté - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Décembre",
+      "periode": "Décembre 2026-2027",
+      "semaines": [
+        {
+          "numero": 17,
+          "theme": "Fêtes et traditions - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Fêtes et traditions - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Fêtes et traditions - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Fêtes et traditions - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "theme": "Fêtes et traditions - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Fêtes et traditions - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Fêtes et traditions - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Fêtes et traditions - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "theme": "Fêtes et traditions - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Fêtes et traditions - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Fêtes et traditions - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Fêtes et traditions - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "theme": "Fêtes et traditions - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Fêtes et traditions - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Fêtes et traditions - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Fêtes et traditions - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Janvier",
+      "periode": "Janvier 2026-2027",
+      "semaines": [
+        {
+          "numero": 21,
+          "theme": "Hiver et environnement - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Hiver et environnement - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Hiver et environnement - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Hiver et environnement - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "theme": "Hiver et environnement - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Hiver et environnement - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Hiver et environnement - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Hiver et environnement - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "theme": "Hiver et environnement - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Hiver et environnement - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Hiver et environnement - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Hiver et environnement - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "theme": "Hiver et environnement - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Hiver et environnement - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Hiver et environnement - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Hiver et environnement - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Février",
+      "periode": "Février 2026-2027",
+      "semaines": [
+        {
+          "numero": 25,
+          "theme": "Corps humain et santé - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Corps humain et santé - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Corps humain et santé - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Corps humain et santé - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 26,
+          "theme": "Corps humain et santé - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Corps humain et santé - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Corps humain et santé - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Corps humain et santé - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 27,
+          "theme": "Corps humain et santé - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Corps humain et santé - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Corps humain et santé - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Corps humain et santé - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 28,
+          "theme": "Corps humain et santé - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Corps humain et santé - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Corps humain et santé - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Corps humain et santé - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Mars",
+      "periode": "Mars 2026-2027",
+      "semaines": [
+        {
+          "numero": 29,
+          "theme": "Animaux et habitats - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Animaux et habitats - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Animaux et habitats - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Animaux et habitats - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 30,
+          "theme": "Animaux et habitats - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Animaux et habitats - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Animaux et habitats - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Animaux et habitats - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 31,
+          "theme": "Animaux et habitats - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Animaux et habitats - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Animaux et habitats - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Animaux et habitats - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 32,
+          "theme": "Animaux et habitats - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Animaux et habitats - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Animaux et habitats - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Animaux et habitats - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Avril",
+      "periode": "Avril 2026-2027",
+      "semaines": [
+        {
+          "numero": 33,
+          "theme": "Eau, météo et sciences - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Eau, météo et sciences - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Eau, météo et sciences - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Eau, météo et sciences - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 34,
+          "theme": "Eau, météo et sciences - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Eau, météo et sciences - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Eau, météo et sciences - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Eau, météo et sciences - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 35,
+          "theme": "Eau, météo et sciences - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Eau, météo et sciences - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Eau, météo et sciences - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Eau, météo et sciences - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 36,
+          "theme": "Eau, météo et sciences - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Eau, météo et sciences - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Eau, météo et sciences - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Eau, météo et sciences - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Mai",
+      "periode": "Mai 2026-2027",
+      "semaines": [
+        {
+          "numero": 37,
+          "theme": "Jardin, nature et croissance - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Jardin, nature et croissance - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Jardin, nature et croissance - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Jardin, nature et croissance - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 38,
+          "theme": "Jardin, nature et croissance - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Jardin, nature et croissance - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Jardin, nature et croissance - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Jardin, nature et croissance - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 39,
+          "theme": "Jardin, nature et croissance - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Jardin, nature et croissance - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Jardin, nature et croissance - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Jardin, nature et croissance - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 40,
+          "theme": "Jardin, nature et croissance - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Jardin, nature et croissance - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Jardin, nature et croissance - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Jardin, nature et croissance - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "Juin",
+      "periode": "Juin 2026-2027",
+      "semaines": [
+        {
+          "numero": 41,
+          "theme": "Bilan et transition vers la 1re année - Semaine 1",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Bilan et transition vers la 1re année - Semaine 1",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Bilan et transition vers la 1re année - Semaine 1",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Bilan et transition vers la 1re année - Semaine 1",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 42,
+          "theme": "Bilan et transition vers la 1re année - Semaine 2",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Bilan et transition vers la 1re année - Semaine 2",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Bilan et transition vers la 1re année - Semaine 2",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Bilan et transition vers la 1re année - Semaine 2",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 43,
+          "theme": "Bilan et transition vers la 1re année - Semaine 3",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Bilan et transition vers la 1re année - Semaine 3",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Bilan et transition vers la 1re année - Semaine 3",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Bilan et transition vers la 1re année - Semaine 3",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        },
+        {
+          "numero": 44,
+          "theme": "Bilan et transition vers la 1re année - Semaine 4",
+          "objectifs": [
+            "Développer l'autonomie dans les routines de classe.",
+            "Renforcer les habiletés sociales par le jeu coopératif.",
+            "Stimuler le langage oral et les premières notions en littératie.",
+            "Explorer les bases en numératie et raisonnement logique."
+          ],
+          "activites": [
+            {
+              "titre": "Atelier langage - Bilan et transition vers la 1re année - Semaine 4",
+              "domaine": "Développement langagier",
+              "description": "Discussion guidée, lecture d'album et production orale en lien avec le thème.",
+              "materiel": [
+                "Album illustré",
+                "Cartes de vocabulaire",
+                "Tableau"
+              ],
+              "evaluation": "Grille d'observation du vocabulaire, de l'écoute et de la participation."
+            },
+            {
+              "titre": "Atelier moteur - Bilan et transition vers la 1re année - Semaine 4",
+              "domaine": "Développement physique et moteur",
+              "description": "Parcours moteur favorisant l'équilibre, la coordination et la motricité globale.",
+              "materiel": [
+                "Cerceaux",
+                "Cônes",
+                "Tapis",
+                "Cordes"
+              ],
+              "evaluation": "Observation des habiletés motrices et de la persévérance."
+            },
+            {
+              "titre": "Atelier découverte - Bilan et transition vers la 1re année - Semaine 4",
+              "domaine": "Développement cognitif",
+              "description": "Manipulations, tri, classification et résolution de problèmes adaptés à 5 ans.",
+              "materiel": [
+                "Objets à trier",
+                "Bacs sensoriels",
+                "Pictogrammes"
+              ],
+              "evaluation": "Trace anecdotique sur les stratégies et l'autonomie."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
